@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PyRadio
+Comment=Internet radio
+Icon=vala-terminal
+Exec=fsoraw -r CPU  -- vala-terminal -e  pyradio
+Terminal=true
+Type=Application
+Categories=Application;
+StartupNotify=false
+
